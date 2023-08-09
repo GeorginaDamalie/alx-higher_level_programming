@@ -1,0 +1,1 @@
+This repository contains various shell scripts and Python scripts to accomplish different tasks. Each section below describes the purpose of the script along with a brief explanation of how to use them.
